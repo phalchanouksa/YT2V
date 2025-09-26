@@ -1,0 +1,44 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# PyInstaller / build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Local config
+# If you want to commit a template, add a sample file instead.
+downloader_config.json
+
+# Tkinter / runtime temporary files
+*.tmp
+*.temp
+
+# Coverage / test
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Misc
+*.bak
+*.swp
+*.swo
